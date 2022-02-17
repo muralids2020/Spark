@@ -1,2 +1,2 @@
-# arithms.io
-Java J2EE with Spring practice for Programmers
+# Spark projects
+Spark practice and preparation fro Databricks certification
